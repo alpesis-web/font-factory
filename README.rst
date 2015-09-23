@@ -63,8 +63,8 @@ Configuration
 LICENSE
 ******************************
 
-- `LICENSE`_
+- `MIT LICENSE`_
 
-.. _`LICENSE`: LICENSE.rst
+.. _`MIT LICENSE`: LICENSE.rst
 
 
