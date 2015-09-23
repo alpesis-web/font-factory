@@ -5,13 +5,13 @@ Font Factory
 This repo contains various of collective font faces used by web applications. Use one or couple of them, just include the css files 
 which are compiled by scss.
 
-Fonts including
+Fonts including:
 
 - `Montserrat`_
 - `Open Sans`_
 
-.. _`Montserrat`: montserrat/index.html
-.. _`Open Sans`: open-sans/index.html
+.. _`Montserrat`: montserrat
+.. _`Open Sans`: open-sans
 
 
 *******************************
