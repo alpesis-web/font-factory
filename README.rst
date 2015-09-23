@@ -56,7 +56,7 @@ CSS
 Configuration
 ******************************
  
-`_config.scss`: update the `$fontRoot`, and then run `./compile.sh`.
+- *_config.scss*: update the *$fontRoot*, and then run *./compile.sh*.
 
 
 ******************************
